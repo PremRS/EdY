@@ -12,7 +12,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Allura&family=Arizonia&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@500&display=swap" rel="stylesheet"> 
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@500&display=swap" rel="stylesheet">
     <link rel="shortcut icon" href="pr_icon.ico">
     <link rel="stylesheet" href="index.css">
     <script src="index.js"></script>
@@ -30,67 +30,117 @@
         </div>
     </header>
 
-    <main>
-        <p>Good-to-have and practice posts available in LinkedIn Platform</p>
-        <section>
+    <main class="margin-1">
+        <p>This site contains some Good-to-have and Practice LinkedIn posts.</p>
+        <section class="margin-bottom-1">
             <article class="accordion">
-                <header class="title" onclick="f(this,'i')">
-                    Index
+                <header class="title" onclick="expandContent(this,'i')">
+                    Cheatsheet
                 </header>
                 <div class="content" id="i">
-                    <zero-md src="index.md"></zero-md>
+                    <zero-md src="index.md">
+                        <template>
+                            <style>
+                                hr {
+                                    height: 0.05em;
+                                    margin: 24px 0;
+                                    background: white;
+                                }
+                            </style>
+                        </template>
+                    </zero-md>
                 </div>
             </article>
         </section>
-        <section>
+        <section class="margin-bottom-1">
             <article class="accordion">
-                <header class="title">
-                    Index
+                <header class="title" onclick="expandContent(this,'j')">
+                    Interview Preparation
                 </header>
-                <div class="content">
-                    <zero-md src="index.md"></zero-md>
+                <div class="content" id="j">
+                    <zero-md src="index.md">
+                        <template>
+                            <style>
+                                hr {
+                                    height: 0.05em;
+                                    margin: 24px 0;
+                                    background: white;
+                                }
+                            </style>
+                        </template>
+                    </zero-md>
                 </div>
             </article>
         </section>
-        <section>
+        <section class="margin-bottom-1">
             <article class="accordion">
-                <header class="title">
-                    Index
+                <header class="title" onclick="expandContent(this,'k')">
+                    Personal Growth
                 </header>
-                <div class="content">
-                    <zero-md src="index.md"></zero-md>
+                <div class="content" id="k">
+                    <zero-md src="index.md">
+                        <template>
+                            <style>
+                                hr {
+                                    height: 0.05em;
+                                    margin: 24px 0;
+                                    background: white;
+                                }
+                            </style>
+                        </template>
+                    </zero-md>
                 </div>
             </article>
         </section>
-        <section>
+        <section class="margin-bottom-1">
             <article class="accordion">
-                <header class="title">
-                    Index
+                <header class="title" onclick="expandContent(this,'l')">
+                    Motivation 
                 </header>
-                <div class="content">
-                    <zero-md src="index.md"></zero-md>
+                <div class="content" id="l">
+                    <zero-md src="index.md">
+                        <template>
+                            <style>
+                                hr {
+                                    height: 0.05em;
+                                    margin: 24px 0;
+                                    background: white;
+                                }
+                            </style>
+                        </template>
+                    </zero-md>
                 </div>
             </article>
         </section>
-        <section>
+        <section class="margin-bottom-1">
             <article class="accordion">
-                <header class="title">
-                    Index
+                <header class="title" onclick="expandContent(this,'m')">
+                    Learners Treasure
                 </header>
-                <div class="content">
-                    <zero-md src="index.md"></zero-md>
+                <div class="content" id="m">
+                    <zero-md src="index.md">
+                        <template>
+                            <style>
+                                hr {
+                                    height: 0.05em;
+                                    margin: 24px 0;
+                                    background: white;
+                                }
+                            </style>
+                        </template>
+                    </zero-md>
                 </div>
             </article>
         </section>
     </main>
 
 
-    <footer>
-        <div class="link" >
-            Powered by <a href="https://zerodevx.github.io/zero-md/" target="_blank">zero-md</a>
+    <footer class="footer flex-col-center margin-1">
+        <div class="link">
+            Powered by <a href="https://zerodevx.github.io/zero-md/" target="_blank">< zero-md ></a>
         </div>
-        
 
+        <div>Developed with ❤️ by Prem Rajasekaran 🧑‍💻 </div>
     </footer>
 
 </body>
