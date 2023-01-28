@@ -1,0 +1,98 @@
+<html>
+
+<head>
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>My Items</title>
+    <!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
+    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
+
+    <!-- Load the element definition -->
+    <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Allura&family=Arizonia&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@500&display=swap" rel="stylesheet"> 
+    <link rel="shortcut icon" href="pr_icon.ico">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
+</head>
+
+<body class="wrapper dark_theme">
+    <!-- Simply set the `src` attribute to your MD file and win -->
+    <header class="container flex-space-between padding-1">
+        <div class="logo-image">
+            <img class="width-100" src="images/header.png" alt="PR">
+        </div>
+
+        <div class="link">
+            <a href="https://premrs.github.io/" target="_blank">HOME</a>
+        </div>
+    </header>
+
+    <main>
+        <p>Good-to-have and practice posts available in LinkedIn Platform</p>
+        <section>
+            <article class="accordion">
+                <header class="title" onclick="f(this,'i')">
+                    Index
+                </header>
+                <div class="content" id="i">
+                    <zero-md src="index.md"></zero-md>
+                </div>
+            </article>
+        </section>
+        <section>
+            <article class="accordion">
+                <header class="title">
+                    Index
+                </header>
+                <div class="content">
+                    <zero-md src="index.md"></zero-md>
+                </div>
+            </article>
+        </section>
+        <section>
+            <article class="accordion">
+                <header class="title">
+                    Index
+                </header>
+                <div class="content">
+                    <zero-md src="index.md"></zero-md>
+                </div>
+            </article>
+        </section>
+        <section>
+            <article class="accordion">
+                <header class="title">
+                    Index
+                </header>
+                <div class="content">
+                    <zero-md src="index.md"></zero-md>
+                </div>
+            </article>
+        </section>
+        <section>
+            <article class="accordion">
+                <header class="title">
+                    Index
+                </header>
+                <div class="content">
+                    <zero-md src="index.md"></zero-md>
+                </div>
+            </article>
+        </section>
+    </main>
+
+
+    <footer>
+        <div class="link" >
+            Powered by <a href="https://zerodevx.github.io/zero-md/" target="_blank">zero-md</a>
+        </div>
+        
+
+    </footer>
+
+</body>
+
+</html>
