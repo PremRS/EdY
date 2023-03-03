@@ -76,6 +76,11 @@ a {
     color: #5B85AA;
 }
 
+.my-posts {
+    min-height: 70vh;
+    margin: 1rem;
+}
+
 .content {
     max-height: 0;
     overflow: hidden;
