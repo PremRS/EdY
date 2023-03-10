@@ -13,6 +13,10 @@ body {
     font-family: 'M PLUS 1', sans-serif;
 }
 
+::-webkit-scrollbar {
+    display: none;
+}
+
 .wrapper {
     max-width: 1200px;
     margin: 0 auto;
@@ -142,7 +146,7 @@ a {
     border-top: 0.25px solid white;
 }
 
-.flex-col-center .link > a{
+.flex-col-center .link>a {
     color: #F7931E;
 }
 
