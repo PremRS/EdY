@@ -1,28 +1,33 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 
 <head>
-    <meta name="viewport"
-        content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>My Items</title>
+
     <!-- Lightweight client-side loader that feature-detects and load polyfills only when necessary -->
     <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
 
     <!-- Load the element definition -->
     <script type="module" src="https://cdn.jsdelivr.net/gh/zerodevx/zero-md@1/src/zero-md.min.js"></script>
+
+    <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Allura&family=Arizonia&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&display=swap" rel="stylesheet">
+
     <link rel="shortcut icon" href="pr_icon.ico">
     <link rel="stylesheet" href="index.css">
     <script src="index.js"></script>
 </head>
 
-<body class="wrapper dark_theme">
+<body class="wrapper dark-theme">
 
     <header class="container flex-space-between padding-1">
         <div class="logo-image">
-            <img class="width-100" src="images/header.png" alt="PR">
+            <img class="width-100" src="images/PR.svg" alt="PR">
         </div>
 
         <div class="link">
@@ -42,7 +47,7 @@
                         <template>
                             <style>
                                 hr {
-                                    height: 0.05em;
+                                    height: 0.05rem;
                                     margin: 24px 0;
                                     background: white;
                                 }
@@ -62,7 +67,7 @@
                         <template>
                             <style>
                                 hr {
-                                    height: 0.05em;
+                                    height: 0.05rem;
                                     margin: 24px 0;
                                     background: white;
                                 }
@@ -82,7 +87,7 @@
                         <template>
                             <style>
                                 hr {
-                                    height: 0.05em;
+                                    height: 0.05rem;
                                     margin: 24px 0;
                                     background: white;
                                 }
@@ -102,7 +107,7 @@
                         <template>
                             <style>
                                 hr {
-                                    height: 0.05em;
+                                    height: 0.05rem;
                                     margin: 24px 0;
                                     background: white;
                                 }
@@ -115,14 +120,14 @@
         <section class="margin-bottom-1">
             <article class="accordion">
                 <header class="title" onclick="expandContent(this,'m')">
-                    Learners Treasure
+                    Learner's Treasure
                 </header>
                 <div class="content" id="m">
                     <zero-md src="content/misc/index.md">
                         <template>
                             <style>
                                 hr {
-                                    height: 0.05em;
+                                    height: 0.05rem;
                                     margin: 24px 0;
                                     background: white;
                                 }
@@ -134,15 +139,24 @@
         </section>
     </main>
 
-
-    <footer class="footer flex-col-center margin-1">
-        <div class="link">
-            Powered by <a href="https://zerodevx.github.io/zero-md/" target="_blank">
-                < zero-md >
-            </a>
+    <footer class="footer">
+        <div class="flex-space-between">
+            <div>
+                <p>Version: <span class="primary">Alpha (α)</span> </p>
+            </div>
+            <div>
+                <p>Visitors: <span id="visitors" class="counter"></span> </p>
+            </div>
+        </div>
+        <div class="flex-col-center margin-1">
+            <div class="link">
+                Powered by <a href="https://zerodevx.github.io/zero-md/" target="_blank">
+                    < zero-md>
+                </a>
+            </div>
+            <div>Developed with ❤️ by Prem Rajasekaran 🧑‍💻 </div>
         </div>
 
-        <div>Developed with ❤️ by Prem Rajasekaran 🧑‍💻 </div>
     </footer>
 
 </body>
