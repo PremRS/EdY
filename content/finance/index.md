@@ -1,6 +1,6 @@
 ----
 
-Contains financial ideas and tax schemes.
+This section contains financial ideas and tax schemes.
 
 - Money 
   1. Tips 1

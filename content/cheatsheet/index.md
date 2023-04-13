@@ -1,6 +1,6 @@
 ----
 
-Contains financial ideas and tax schemes.
+This section contains various progamming languages cheatsheet.
 
 - Git 
   1. Tips 1
@@ -13,6 +13,7 @@ Contains financial ideas and tax schemes.
 - CSS 
   1. Tips 1
   2. Tips 2
+  3. Tips 3
   
 - JS
   1. Tips 1

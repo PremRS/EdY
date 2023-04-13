@@ -1,15 +1,15 @@
 ----
 
-Contains cheatsheet.
+This section contains unique post that are though provoking and knowledgable.
 
-- Git 
+- AI  
   1. Tips 1
   2. Tips 2
   
-- DSA
+- Tools to make life easy
   1. Tips 1
   2. Tips 2
 
-- CSS 
+- Posts 
   1. Tips 1
   2. Tips 2
