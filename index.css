@@ -62,21 +62,21 @@ a {
 
 .title {
     font-size: large;
-    color: #F7931E;
+    color: #E89024;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
 }
 
 .title:hover {
-    color: #5B85AA;
+    color: #4283C4; 
 }
 
 .primary {
-    color: #F7931E;
+    color: #E89024;
 }
 
 .secondary {
-    color: #5B85AA;
+    color: #4283C4;
 }
 
 .my-posts {
@@ -105,8 +105,8 @@ a {
 }
 
 .logo-image {
-    width: 4.75rem;
-    height: 4.75rem;
+    width: 5.75rem;
+    height: 5.75rem;
 }
 
 .padding-1 {
@@ -132,7 +132,7 @@ a {
     bottom: 0;
     margin: 0.0625rem 0;
     transform: scaleX(0);
-    background-color: #5B85AA;
+    background-color: #4283C4;
     transform-origin: left;
     transition: transform 0.2s ease-in;
 }
@@ -143,7 +143,7 @@ a {
 }
 
 .counter {
-    color: #F7931E;
+    color: #E89024;
     font-size: 1.5rem;
     font-family: 'Anonymous Pro', monospace;
 }
@@ -153,7 +153,7 @@ a {
 }
 
 .flex-col-center .link>a {
-    color: #F7931E;
+    color: #E89024;
 }
 
 .flex-col-center div {
