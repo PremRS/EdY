@@ -18,7 +18,7 @@
     <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1:wght@500&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Anonymous+Pro:wght@700&display=swap" rel="stylesheet">
 
-    <link rel="shortcut icon" href="pr_icon.ico">
+    <link rel="shortcut icon" href="icon/v2/New PR.ico">
     <link rel="stylesheet" href="index.css">
     <script src="index.js"></script>
 </head>
@@ -27,7 +27,7 @@
 
     <header class="container flex-space-between padding-1">
         <div class="logo-image">
-            <img class="width-100" src="images/New PR.svg" alt="PR">
+            <img class="width-100" src="images/v2/PR_Badge.svg" alt="PR">
         </div>
 
         <div class="link">
@@ -35,108 +35,8 @@
         </div>
     </header>
 
-    <main class="my-posts">
+    <main class="my-posts" id="posts-section">
         <p>This site contains some Good-to-have and Practice LinkedIn posts.</p>
-        <section class="margin-bottom-1">
-            <article class="accordion">
-                <header class="title" onclick="expandContent(this,'i')">
-                    Cheatsheet
-                </header>
-                <div class="content" id="i">
-                    <zero-md src="content/cheatsheet/index.md">
-                        <template>
-                            <style>
-                                hr {
-                                    height: 0.05rem;
-                                    margin: 24px 0;
-                                    background: white;
-                                }
-                            </style>
-                        </template>
-                    </zero-md>
-                </div>
-            </article>
-        </section>
-        <section class="margin-bottom-1">
-            <article class="accordion">
-                <header class="title" onclick="expandContent(this,'j')">
-                    Interview Preparation
-                </header>
-                <div class="content" id="j">
-                    <zero-md src="content/interview/index.md">
-                        <template>
-                            <style>
-                                hr {
-                                    height: 0.05rem;
-                                    margin: 24px 0;
-                                    background: white;
-                                }
-                            </style>
-                        </template>
-                    </zero-md>
-                </div>
-            </article>
-        </section>
-        <section class="margin-bottom-1">
-            <article class="accordion">
-                <header class="title" onclick="expandContent(this,'k')">
-                    Personal Growth
-                </header>
-                <div class="content" id="k">
-                    <zero-md src="content/growth/index.md">
-                        <template>
-                            <style>
-                                hr {
-                                    height: 0.05rem;
-                                    margin: 24px 0;
-                                    background: white;
-                                }
-                            </style>
-                        </template>
-                    </zero-md>
-                </div>
-            </article>
-        </section>
-        <section class="margin-bottom-1">
-            <article class="accordion">
-                <header class="title" onclick="expandContent(this,'l')">
-                    Finance
-                </header>
-                <div class="content" id="l">
-                    <zero-md src="content/finance/index.md">
-                        <template>
-                            <style>
-                                hr {
-                                    height: 0.05rem;
-                                    margin: 24px 0;
-                                    background: white;
-                                }
-                            </style>
-                        </template>
-                    </zero-md>
-                </div>
-            </article>
-        </section>
-        <section class="margin-bottom-1">
-            <article class="accordion">
-                <header class="title" onclick="expandContent(this,'m')">
-                    Learner's Treasure
-                </header>
-                <div class="content" id="m">
-                    <zero-md src="content/misc/index.md">
-                        <template>
-                            <style>
-                                hr {
-                                    height: 0.05rem;
-                                    margin: 24px 0;
-                                    background: white;
-                                }
-                            </style>
-                        </template>
-                    </zero-md>
-                </div>
-            </article>
-        </section>
     </main>
 
     <footer class="footer">
