@@ -113,6 +113,10 @@ a {
     padding: 1rem;
 }
 
+.padding-p5 {
+    padding: 0.5rem;
+}
+
 .width-100 {
     width: 100%;
 }
