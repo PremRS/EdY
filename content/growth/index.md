@@ -2,9 +2,7 @@
 
 This section contains insights about personal and professional growth.
 
-<a href="" target="_blank"></a>
-
-- Understanding Your Potential 
+- Understanding Your Potential
   1. <a href="https://www.linkedin.com/posts/warikoo_14-unusual-ways-to-beat-distraction-at-work-activity-7051032256504635393-Z5Nv" target="_blank">Be Productive - Beat Distraction at Work</a>
   2. <a href="https://www.linkedin.com/posts/samsad-ahmed24_feynman-technique-activity-7052343714140090368-MnfW" target="_blank">Feynman Technique - Learn anything</a>
   3. <a href="https://www.linkedin.com/posts/geetarautela_habits-activity-7044995755287142400-X5ZW" target="_blank">Simple Habits that changes course of your life</a>
@@ -25,25 +23,17 @@ This section contains insights about personal and professional growth.
   18. <a href="https://www.linkedin.com/posts/geetarautela_8-common-mind-games-people-play-on-you-and-activity-7004325704930586624-X8Jg" target="_blank">8 Mind games to avoid</a>
   19. <a href="https://www.linkedin.com/posts/ritika-thapa_ways-to-clean-your-mind-activity-7018514109251891200-6PYX" target="_blank">Clean Your Mind</a>
   20. <a href="https://www.linkedin.com/posts/skumar-ba940b56_7-ways-to-be-a-dangerous-human-being-activity-7008654384712597504-CFQ-" target="_blank">7 Ways to be Effective Human Being</a>
-  21. <a href="" target="_blank"></a>
-  22. <a href="" target="_blank"></a>
-  23. <a href="" target="_blank"></a>
-  24. <a href="" target="_blank"></a>
+  21. <a href="https://www.linkedin.com/posts/sales-and-marketing-189b08b4_6-killer-hacks-to-sell-anything-to-anyone-activity-7016005585024294912-Zrmy" target="_blank">Hacks to Selling Anything to Anyone</a>
+  22. <a href="https://www.linkedin.com/posts/addyosmani_softwareengineering-productivity-activity-6981270958401609728-C3Te" target="_blank">Critical Thinking is Key</a>
+  23. <a href="https://www.linkedin.com/posts/davidmcleanatgetkeepgrow_wellbeing-wellness-neuroscience-activity-6972700286997991424-vopm" target="_blank">5 Ways to Keep Your Brain Healthy</a>
+  24. <a href="https://www.linkedin.com/posts/benmeer_how-to-remember-everything-valuable-you-read-activity-7005889059965259776-DZ_1" target="_blank">Techniques to remember everything</a>
 
-  
 - Ted Talks
   1. <a href="https://www.linkedin.com/posts/jadebonacolta_8-of-the-most-powerful-ted-talks-of-all-time-activity-7031974477366231040-1AeP" target="_blank">Powerful TED Talks</a>
   2. <a href="https://www.linkedin.com/posts/mattgray1_9-ted-talks-in-9-days-that-will-change-your-activity-7020735475174789121-rU4W" target="_blank">Life changing TED Talks</a>
-  3. <a href="" target="_blank"></a>
-  4. <a href="" target="_blank"></a>
-  5. <a href="" target="_blank"></a>
 
 - Time Management 
   1. <a href="https://www.linkedin.com/posts/warikoo_11-shocking-facts-about-managing-time-activity-7030732285406502912-rYuE" target="_blank">Facts about Time Management</a>
-  2. <a href="" target="_blank"></a>
-  3. <a href="" target="_blank"></a>
-  4. <a href="" target="_blank"></a>
-  5. <a href="" target="_blank"></a>
 
 - Life Lessons
   1. <a href="https://www.linkedin.com/posts/krritik01_swipe-activity-7051027168750907392-Ztmz" target="_blank">Graphs that narrates importance of personal life</a>
@@ -55,9 +45,7 @@ This section contains insights about personal and professional growth.
   7. <a href="https://www.linkedin.com/posts/sumitsoni0226_100-psychology-skills-to-master-your-life-activity-7027845902249648128-oxKa" target="_blank">100 Psychology skills to master Life</a>
   8. <a href="https://www.linkedin.com/posts/taylin-john-simmonds-4b2717132_11-lessons-activity-6999004803527831552-vHgn" target="_blank">11 lessons of Life</a>
   9. <a href="https://www.linkedin.com/posts/sri-nag-9a7346221_change-video-activity-7019294735697666048-nK5J" target="_blank">12 Laws of Karma that Will Change Your Life</a>
-  10. <a href="" target="_blank"></a>
-  11. <a href="" target="_blank"></a>
-  12. <a href="" target="_blank"></a>
+  10. <a href="https://www.linkedin.com/posts/pascalbornet_success-management-leadership-activity-6977877806516994048-T9xO" target="_blank">Eisenhower Decision Matrix</a>
 
 - Successful Career
   1. <a href="https://www.linkedin.com/posts/therahulm_6-low-budget-courses-for-a-successful-career-activity-7050482085500747776-nRqS" target="_blank">Budget courses that helps to build successful career</a>
@@ -66,6 +54,4 @@ This section contains insights about personal and professional growth.
   4. <a href="https://www.linkedin.com/posts/ehsan-ali-au_5-point-strategy-for-hyper-career-growth-activity-7021264900375146498-RFdY" target="_blank">5 point strategy for career growth</a>
   5. <a href="https://www.linkedin.com/posts/brettadcock_20x-activity-7022239637364502528-UD9c" target="_blank">Sentences that improve your Leadership skills</a>
   6. <a href="https://www.linkedin.com/posts/zainkahn_soft-skills-activity-6958404851856805889-loU3" target="_blank">Soft skills to accelerate career</a>
-  7. <a href="" target="_blank"></a>
-  8. <a href="" target="_blank"></a>
-  9. <a href="" target="_blank"></a>
+  7. <a href="https://www.linkedin.com/posts/indhu-priya_learning-policy-feedback-activity-6917696183754797056-gRRn" target="_blank">10 Mistakes to avoid in career</a>
