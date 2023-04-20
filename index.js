@@ -46,6 +46,9 @@ function populateContent() {
                             margin: 1.5rem 0;
                             background: #FFF;
                         }
+                        ul > li > p {
+                            color: #E89024;
+                        }
                         a {
                             text-decoration: none;
                             color: #FFF;

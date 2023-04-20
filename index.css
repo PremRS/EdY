@@ -80,7 +80,7 @@ a {
 }
 
 .my-posts {
-    min-height: 70vh;
+    min-height: 65vh;
     margin: 1rem;
 }
 
@@ -119,6 +119,18 @@ a {
 
 .width-100 {
     width: 100%;
+}
+
+.quote {
+    font: 1.8rem/1.4 Georgia, serif;
+}
+
+.align-center {
+    text-align: center;
+}
+
+.text-s {
+    font-size: 0.875rem;
 }
 
 .link>a {
