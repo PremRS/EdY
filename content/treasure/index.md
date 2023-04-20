@@ -1,6 +1,6 @@
 ----
 
-This section contains unique post that are though provoking and knowledgable.
+This section contains unique post that are thought provoking and knowledgable.
 
 - AI  
   1. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7048894307621097472" target="_blank">Build Website Faster using AI</a>

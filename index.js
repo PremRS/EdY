@@ -43,8 +43,11 @@ function populateContent() {
                     <style>
                         hr {
                             height: 0.05rem;
-                            margin: 24px 0;
+                            margin: 1.5rem 0;
                             background: #FFF;
+                        }
+                        ul > li > p {
+                            color: #E89024;
                         }
                         a {
                             text-decoration: none;
@@ -76,16 +79,23 @@ window.onload = function () {
 
     this.populateContent();
 
-    var visitorsCount = 100;
-    var countElement = document.getElementById('visitors');
-    var initialCount = 0;
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", "https://api.countapi.xyz/hit/premrs.github.io/EdY");
+    xhr.responseType = "json";
+    xhr.onload = function () {
+        var visitorsCount = this.response.value;
+        var countElement = document.getElementById('visitors');
+        var initialCount = 0;
 
-    var counter = setInterval(function () {
-        if (initialCount < visitorsCount) {
-            initialCount += 1;
-            countElement.innerHTML = initialCount;
-        } else {
-            clearInterval(counter);
-        }
-    }, 10);
+        var counter = setInterval(function () {
+            if (initialCount < visitorsCount) {
+                initialCount += 1;
+                countElement.innerHTML = initialCount;
+            } else {
+                clearInterval(counter);
+            }
+        }, 10);
+    }
+
+    xhr.send();
 };
