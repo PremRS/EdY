@@ -15,6 +15,7 @@ This section contains various progamming languages cheatsheet and techniques to 
   7. <a href="https://www.linkedin.com/posts/moabukar_softwareengineering-coding-systemdesign-activity-7024302917859823616-xZZi" target="_blank">Amazing Git Repos - #1</a>
   8. <a href="https://www.linkedin.com/posts/pradeep-pandey-5a545a163_github-repository-javascriptdeveloper-activity-7023643786631131137-GKC-" target="_blank">Amazing Git Repos - #2</a>
   9. <a href="https://www.linkedin.com/posts/iamarifalam_datastructures-algorithms-computerscience-activity-7001463263104262145-d8Fl" target="_blank">Git Repo - for courses</a>
+  10. <a href="https://github.com/dypsilon/frontend-dev-bookmarks" target="_blank">Git Repo - For FrontEnd Developers Resources</a>
   
 - Data Structures and Algorithm
   1. <a href="https://www.linkedin.com/posts/jayesh-deshmukh-3708a0227_top-algorithms-activity-7026779067366465536-8kqg" target="_blank">Algorithm Every Programmer should know</a>

@@ -62,5 +62,11 @@ This section contains unique post that are thought provoking and knowledgable.
   1. <a href="https://www.linkedin.com/posts/ramanjupalli-ashok-kumar-reddy-4a0278176_sql-activity-7050323134473793536-mKKj" target="_blank">Beginning SQL Queries - Clare Churcher</a>
   2. <a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">Git Repo - Programming E-books</a>
   3. <a href="https://www.linkedin.com/posts/robertcmeza_behavioraldesign-servicedesign-behavioralscience-activity-7024259975208173568-th17" target="_blank">UX Books</a>
+  4. <a href="https://exploringjs.com/nodejs-shell-scripting/" target="_blank">Shell Scripting with NodeJs</a>
+  5. <a href="https://exploringjs.com/deep-js/" target="_blank">Deep JavaScript - Theory and Techniques</a>
+  6. <a href="https://exploringjs.com/impatient-js/" target="_blank">JavaScript for impatient programmers (ES2022 edition)</a>
+  7. <a href="https://exploringjs.com/tackling-ts/" target="_blank">Tackling TypeScript: Upgrading from JavaScript</a>
+  8. <a href="https://wp.apollographql.com/wp-content/uploads/2022/03/Paths_to_a_supergraph_ebook.pdf" target="_blank">Apollo GraphQL</a>
+
 
   
