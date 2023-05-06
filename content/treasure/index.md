@@ -26,6 +26,7 @@ This section contains unique post that are thought provoking and knowledgable.
   13. <a href="https://www.linkedin.com/posts/muthu-annamalai_8-developer-portfolio-to-inspire-you-activity-6897389196605030400-efNv" target="_blank">Developer Portfolio That Inspires You</a>
   14. <a href="https://www.linkedin.com/posts/natarajsasid_useful-websites-activity-7002499490234437632-bQF6" target="_blank">7 Websites for Creators</a>
   15. <a href="https://www.linkedin.com/posts/moelzanaty3_mentomz-moelzanaty3-activity-7017080506567565312-lDf6" target="_blank">Sites for running your website at no cost</a>
+  16. <a href="https://www.linkedin.com/posts/punitweb_3d-ui-design-tools-ugcPost-7060460963275190272-h7Oq" target="_blank">Sites with 3D resources and tools</a>
 
 - Posts 
   1. <a href="https://www.linkedin.com/posts/shambhavik_mba-mbajobs-marketing-activity-7050823532456419328-t-0E" target="_blank">Resources for MBA</a>
