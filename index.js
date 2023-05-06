@@ -21,15 +21,21 @@ const CONTENTS = [{
 }];
 
 function expandContent(element, id) {
-    var content = document.getElementById(id);
-    content.classList.toggle("reveal-content");
+    var allPosts = document.getElementById('posts');
+
+    allPosts.childNodes.forEach(post => {
+        var content = post.children.item(1);
+        content.id === id ? content.classList.toggle("reveal-content") : content.classList.remove("reveal-content");
+    });
 }
 
 function populateContent() {
     var mainContainer = document.getElementById('posts-section');
+    var sectionContainer = document.createElement('section');
+    sectionContainer.id = "posts";
+    sectionContainer.className = "margin-bottom-1";
 
     CONTENTS.forEach(content => {
-        var sectionContainer = document.createElement('section');
         var articleContainer = document.createElement('article');
         var headerContainer = document.createElement('header');
         var divContainer = document.createElement('div');
@@ -66,36 +72,37 @@ function populateContent() {
 
         articleContainer.className = "accordion";
 
-        sectionContainer.className = "margin-bottom-1";
-
         articleContainer.appendChild(headerContainer);
         articleContainer.appendChild(divContainer);
         sectionContainer.appendChild(articleContainer);
-        mainContainer.appendChild(sectionContainer);
     });
+
+    mainContainer.appendChild(sectionContainer);
 }
 
 window.onload = function () {
 
     this.populateContent();
 
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://api.countapi.xyz/hit/premrs.github.io/EdY");
-    xhr.responseType = "json";
-    xhr.onload = function () {
-        var visitorsCount = this.response.value;
-        var countElement = document.getElementById('visitors');
-        var initialCount = 0;
+    var countElement = document.getElementById('visitors');
+    var visitorCount = localStorage.getItem("page_visitors");
+    var initialCount = 0;
 
-        var counter = setInterval(function () {
-            if (initialCount < visitorsCount) {
-                initialCount += 1;
-                countElement.innerHTML = initialCount;
-            } else {
-                clearInterval(counter);
-            }
-        }, 10);
+
+    if (visitorCount) {
+        visitorCount = Number(visitorCount) + 1;
+        localStorage.setItem("page_visitors", visitorCount);
+    } else {
+        visitorCount = 1;
+        localStorage.setItem("page_visitors", 1);
     }
 
-    xhr.send();
+    var counter = setInterval(function () {
+        if (initialCount < visitorCount) {
+            initialCount += 1;
+            countElement.innerHTML = initialCount;
+        } else {
+            clearInterval(counter);
+        }
+    }, 10);
 };

@@ -58,6 +58,7 @@ a {
 
 .accordion {
     padding: 1rem;
+    margin-bottom: 0.5rem;
 }
 
 .title {
@@ -133,13 +134,13 @@ a {
     font-size: 0.875rem;
 }
 
-.link>a {
+a.link {
     color: #fff;
     position: relative;
     padding-bottom: 0.375rem;
 }
 
-.link>a::before {
+a.link::before {
     content: '';
     position: absolute;
     width: 100%;
@@ -153,7 +154,7 @@ a {
     transition: transform 0.2s ease-in;
 }
 
-.link>a:hover::before {
+a.link:hover::before {
     transform: scaleX(1);
     transform-origin: left;
 }
@@ -168,11 +169,30 @@ a {
     border-top: 0.0625rem solid white;
 }
 
-.flex-col-center .link>a {
+.flex-col-center a.link {
     color: #E89024;
 }
 
 .flex-col-center div {
     margin: 0.5rem 0;
     text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 0.875rem;
+    }
+
+    .quote {
+        font: 1.4rem/1.4 Georgia, serif;
+    }
+
+    .title {
+        font-size: 1rem;
+    }
+
+    .logo-image {
+        width: 3.75rem;
+        height: 3.75rem;
+    }
 }
