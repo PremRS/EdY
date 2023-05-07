@@ -83,26 +83,4 @@ function populateContent() {
 window.onload = function () {
 
     this.populateContent();
-
-    var countElement = document.getElementById('visitors');
-    var visitorCount = localStorage.getItem("page_visitors");
-    var initialCount = 0;
-
-
-    if (visitorCount) {
-        visitorCount = Number(visitorCount) + 1;
-        localStorage.setItem("page_visitors", visitorCount);
-    } else {
-        visitorCount = 1;
-        localStorage.setItem("page_visitors", 1);
-    }
-
-    var counter = setInterval(function () {
-        if (initialCount < visitorCount) {
-            initialCount += 1;
-            countElement.innerHTML = initialCount;
-        } else {
-            clearInterval(counter);
-        }
-    }, 10);
 };

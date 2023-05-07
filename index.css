@@ -43,6 +43,9 @@ body {
     justify-content: space-between;
 }
 
+.v-align-super {
+    vertical-align: super;
+}
 
 a {
     text-decoration: none;
