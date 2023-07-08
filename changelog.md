@@ -3,6 +3,10 @@ All notable changes to this site will be documented in this file.
 
 ## Version: Alpha
 
+## [08-07-2023]
+### Added
+- New posts were added in each section.
+
 ## [06-05-2023]
 ### Added
 - New post in Learner's Treasure section.
