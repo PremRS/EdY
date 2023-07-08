@@ -27,6 +27,7 @@ This section contains insights about personal and professional growth.
   22. <a href="https://www.linkedin.com/posts/addyosmani_softwareengineering-productivity-activity-6981270958401609728-C3Te" target="_blank">Critical Thinking is Key</a>
   23. <a href="https://www.linkedin.com/posts/davidmcleanatgetkeepgrow_wellbeing-wellness-neuroscience-activity-6972700286997991424-vopm" target="_blank">5 Ways to Keep Your Brain Healthy</a>
   24. <a href="https://www.linkedin.com/posts/benmeer_how-to-remember-everything-valuable-you-read-activity-7005889059965259776-DZ_1" target="_blank">Techniques to remember everything</a>
+  25. <a href="https://www.linkedin.com/posts/ritika-thapa_be-productive-with-this-activity-7060485837725024256-B-UC" target="_blank">Be productive with this</a>
 
 - Ted Talks
   1. <a href="https://www.linkedin.com/posts/jadebonacolta_8-of-the-most-powerful-ted-talks-of-all-time-activity-7031974477366231040-1AeP" target="_blank">Powerful TED Talks</a>
