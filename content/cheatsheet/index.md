@@ -25,6 +25,10 @@ This section contains various progamming languages cheatsheet and techniques to 
   5. <a href="https://www.linkedin.com/posts/thriverashish_90-days-dsa-thriver-ashish-activity-7007638436966805504-yi6E" target="_blank">90 Days of DSA</a>
   6. <a href="https://www.linkedin.com/posts/pg23_coding-strategy-interviewpreparation-activity-6883273223014883328-tINz" target="_blank">DSA Prep Plan - By Prankur Gupta</a>
   7. <a href="https://www.linkedin.com/posts/karun-karthik_linked-list-activity-6902837903534481408-ySBT" target="_blank">Linked List Notes</a>
+  8. <a href="https://www.linkedin.com/posts/himanshumalviya1512_60-days-dsa-challenge-activity-7074923244947931136-gJpL" target="_blank">60 Days DSA Challenge</a>
+
+- Web Development
+  1. <a href="https://www.linkedin.com/posts/sushil-kumar-kushwaha-codewithsushil_web-dev-resources-cheat-sheet-activity-7080402145560150016-UIW_" target="_blank">Web Dev Resources Cheatsheet</a>
 
 - HTML 
   1. <a href="https://www.linkedin.com/posts/rammcodes_6-amazing-cool-html-tags-activity-7049561967203659777-uRuE" target="_blank">Amazing HTML Tags</a>
@@ -49,6 +53,7 @@ This section contains various progamming languages cheatsheet and techniques to 
   7. <a href="https://www.linkedin.com/posts/pradeep-pandey-5a545a163_top-10-javascript-array-methods-activity-7020380330922491904-XkBO" target="_blank">JS Array methods</a>
   8. <a href="https://www.linkedin.com/posts/mohitsehrawat_8-github-repos-to-master-javascript-activity-6990924359263506432-xB9b" target="_blank">Repos to learn and master JS</a>
   9. <a href="https://www.linkedin.com/posts/vishwanathchiniwar_javascriptdevelopers-programming-javascriptdeveloper-activity-7024736087851896832-WVWH" target="_blank">Visualization of JS Topics</a>
+  10. <a href="https://www.linkedin.com/posts/chetannada_javascript-es13-features-activity-7071123433320853504-g5G6" target="_blank">JavaScript ES13 Features</a>
 
 - React 
   1. <a href="https://www.linkedin.com/posts/praveentech_the-react-beginners-handbook-activity-7000409384098889728-3mqb" target="_blank">React Beginners Handbook</a>
@@ -77,6 +82,8 @@ This section contains various progamming languages cheatsheet and techniques to 
   1. <a href="https://www.linkedin.com/posts/vigneshwar-k-s-_laws-of-ux-activity-7046867099939475456-4YCJ" target="_blank">Laws of UX</a>
   2. <a href="https://www.linkedin.com/posts/thewilsonwings_stop-using-black-in-ui-design-activity-6929664994280124416-qCh9" target="_blank">Black in UI Design - is it fine ?</a>
   3. <a href="https://www.linkedin.com/posts/thomasbenner_graphicdesign-graphicdesigner-digitalmarketing-activity-6999213362425344000-BE56" target="_blank">Design Ratio</a>
+  4. <a href="https://www.linkedin.com/posts/tharanins_16-important-research-terms-activity-7075445628163526656-KuC7" target="_blank">16 Important Research Terms in UI/UX</a>
+  5. <a href="https://www.linkedin.com/posts/cameron-css_dashboard-color-design-guide-activity-7060457908592939008-DNON" target="_blank">Dashboard Color Design Guide</a>
 
 - Visual Studio Code  
   1. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7028701036886282240" target="_blank">VS Code Shortcuts Cheatsheet</a>

@@ -6,6 +6,7 @@ This section contains financial ideas and tax schemes.
   1. <a href="https://www.linkedin.com/posts/warikoo_10-things-i-learned-from-the-book-psychology-activity-7047865601834246145-LGhb" target="_blank">10 Things from Psychology of Money</a>
   2. <a href="https://www.linkedin.com/posts/warikoo_10-powerful-money-rules-activity-7033993775941062656-Z-s7" target="_blank">Powerful Money Rules</a>
   3. <a href="https://www.linkedin.com/posts/thewokesalaryman_tws-fail-at-fire-activity-6937618147629756416-zyEr" target="_blank">Story about Finanical Independence</a>
+  4. <a href="https://www.linkedin.com/posts/spectrumitg_6-books-that-will-change-your-life-activity-7069677643729645568-_u8c" target="_blank">Books about Money</a>
   
 - Tax
   1. <a href="https://www.linkedin.com/posts/jayantmenghani_india-tax-salary-activity-7051011499451981824-vZXy" target="_blank">Restructure Your Salary</a>

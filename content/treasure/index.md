@@ -9,6 +9,10 @@ This section contains unique post that are thought provoking and knowledgable.
   4. <a href="https://www.linkedin.com/posts/hackerrank_ai-tools-for-ta-professionals-activity-7040575582190936064-GysY" target="_blank">AI Tools for Talent Acquisition Professionals</a>
   5. <a href="https://www.linkedin.com/posts/genai-center_ai-tools-activity-7034074959798812672-7R2o" target="_blank">Tools that aren't ChatGPT</a>
   6. <a href="https://www.linkedin.com/posts/dutta-souvik_amazing-8-ai-websites-activity-7031845104009060352-L5T0" target="_blank">Amazing AI websites</a>
+  7. <a href="https://www.linkedin.com/posts/awaiskhanli_10-incredibly-powerful-chrome-extensions-activity-7061695988251377664-ES4l" target="_blank">AI Chrome Extensions</a>
+  8. <a href="https://www.linkedin.com/posts/bilalmanna16_7-free-ai-tools-which-are-better-than-chatgpt-activity-7070036270999031808-tU5O" target="_blank" >AI Tools #1</a>
+  9. <a href="https://www.linkedin.com/feed/update/urn:li:activity:7064274858280460289?utm_source=share&utm_medium=member_desktop" target="_blank" >AI Tools #2</a>
+  10. <a href="https://www.linkedin.com/posts/awaiskhanli_how-to-5x-your-productivity-by-using-these-activity-7068945219257270272-tVWx" target="_blank" >Chat-GPT Plugins</a>
   
 - Tools to make life easy
   1. <a href="https://www.linkedin.com/posts/nt2828_these-7-websites-can-make-you-a-programming-activity-7049795760149733376-e5Ab" target="_blank">Websites that helps to understand programming</a>
@@ -53,6 +57,7 @@ This section contains unique post that are thought provoking and knowledgable.
   22. <a href="https://www.linkedin.com/posts/shatakshi-sharma-410_cognitive-interpersonal-self-activity-7025706973023092737-jw7L" target="_blank">54 Skills needed in next 5 years</a>
   23. <a href="https://www.linkedin.com/posts/niteshyadav585_software-internship-development-activity-7019633687310790656-gV6E" target="_blank">Open Source Internship Programs</a>
   24. <a href="https://www.linkedin.com/posts/manish-kumar-shah_programming-languages-uses-activity-7026502868127940608-QwCx" target="_blank">Programming Languages and their uses</a>
+  25. <a href="https://www.linkedin.com/posts/arpitbhayani_asliengineering-distributedsystems-decentralisednetwork-activity-7074372831953768448-5k8b" target="_blank"> BitTorrent Architecture </a>
 
 - Googling
   1. <a href="https://www.linkedin.com/posts/rajesh-reddy-bejadi_google-activity-7000811790309736448-UuID" target="_blank">Googling is Art</a>
